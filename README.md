@@ -1,2 +1,2 @@
 # Pytorch_Custom_Trainer
-A custom-trainer for image tasks using Pytorch 
+A custom-built trainer for image tasks using Pytorch 
